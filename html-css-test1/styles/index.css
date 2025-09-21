@@ -1,0 +1,32 @@
+.main {
+    background-color: rgb(40, 40, 40);
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.about_me {
+    color:rgb(126, 255, 212);
+    text-align: center;
+}
+.about_me2 {
+    text-align: center;
+}
+
+.first-button {
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: rgb(255, 87, 202); 
+    margin-bottom:20px;
+}
+
+.first-button:active{
+    font-size: 19px;
+    background-color: rgb(255, 137, 251); 
+}
+.image-object {
+    display: block;
+    
+}
+
+.mood {
+    color:rgb(126, 255, 212);
+}
